@@ -3,7 +3,7 @@
 #https://docs.microsoft.com/en-us/office365/admin/create-groups/manage-creation-of-groups?view=o365-worldwide
 
 $GroupName = "AllowGroupCreation"
-$AllowGroupCreation = "True"
+$AllowGroupCreation = "False"
 
 #Connect-AzureAD
 
